@@ -1,4 +1,4 @@
-# Gridline
+# Gridlines
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,29 +64,150 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Gridline is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Gridlines is a digital onboarding infrastructure platform, branded "Gridlines by OnGrid" and operated by Handy Online Solutions Private Limited (India), for verifying customers, workers, partners, merchants and borrowers. It offers verification APIs and configurable workflows for identity checks, video KYC, Aadhaar offline verification (OVSE), DigiLocker, eSign and fraud-risk assessment, with SDKs, webhooks/status callbacks and a sandbox documented on its Stoplight developer portal, serving BFSI, lending, insurance, fintech, workforce, mobility/logistics and marketplace businesses.
 
-**Areas:** Company
+**Areas:** Company · Onboarding · IdentityVerification · KYC · eSigning · FraudDetection · VideoKYC · DigitalOnboarding · Fintech
 
-## Gridline on APIs.io
+## Gridlines on APIs.io
 
-Everything profiled for Gridline is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gridline/](https://apis.io/providers/gridline/)** — or go straight to one of the APIs or properties below.
+Everything profiled for Gridlines is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/gridline/](https://apis.io/providers/gridline/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [Gridlines Deepfake API](https://apis.io/apis/gridline/gridline-deepfake-api/) — The Deepfake API from Gridlines — 6 operation(s) for deepfake.
+- [Gridlines Digilocker API](https://apis.io/apis/gridline/gridline-digilocker-api/) — The Digilocker API from Gridlines — 6 operation(s) for digilocker.
+- [Gridlines E Sign API](https://apis.io/apis/gridline/gridline-e-sign-api/) — The E-Sign API from Gridlines — 4 operation(s) for e-sign.
+- [Gridlines Face API](https://apis.io/apis/gridline/gridline-face-api-api/) — The Face Api API from Gridlines — 1 operation(s) for face api.
+- [Gridlines Individual API](https://apis.io/apis/gridline/gridline-individual-api/) — The Individual API from Gridlines — 1 operation(s) for individual.
+- [Gridlines Liveness API](https://apis.io/apis/gridline/gridline-liveness-api/) — The Liveness API from Gridlines — 1 operation(s) for liveness.
+- [Gridlines Pull Education Documents API](https://apis.io/apis/gridline/gridline-pull-education-documents-api/) — The Pull Education Documents API from Gridlines — 2 operation(s) for pull education documents.
+- [Gridlines UIDAI OVSE API](https://apis.io/apis/gridline/gridline-uidai-ovse-api/) — The UIDAI OVSE API from Gridlines — 2 operation(s) for uidai ovse.
+- [Gridlines Utility API](https://apis.io/apis/gridline/gridline-utility-api/) — The Utility API from Gridlines — 6 operation(s) for utility.
+- [Gridlines Workflow Mgmt API](https://apis.io/apis/gridline/gridline-workflow-mgmt-api/) — The Workflow Mgmt API from Gridlines — 3 operation(s) for workflow mgmt.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Gridline Agentic Access](https://apis.io/agentic-access/gridline/gridline-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [E-Sign-Init-Request](https://apis.io/schemas/gridline/gridline-e-sign-init-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Gridline Context](https://apis.io/jsonld/gridline/gridline-context/)
+
+#### Overlays (6)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Gridline Aadhaar Overlay](https://apis.io/overlays/gridline/gridline-aadhaar-overlay/)
+- [Gridline Digilocker Overlay](https://apis.io/overlays/gridline/gridline-digilocker-overlay/)
+- [Gridline Face Match Overlay](https://apis.io/overlays/gridline/gridline-face-match-overlay/)
+- [Gridline Journey Orchestrator Overlay](https://apis.io/overlays/gridline/gridline-journey-orchestrator-overlay/)
+- [Gridline Liveness Check Overlay](https://apis.io/overlays/gridline/gridline-liveness-check-overlay/)
+- [Gridline Profile Lookup Overlay](https://apis.io/overlays/gridline/gridline-profile-lookup-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Gridlines API Rules](https://apis.io/rules/gridline/gridline-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Gridline Authentication](https://apis.io/security/gridline/gridline-authentication/)
+- [Gridline Domain Security](https://apis.io/security/gridline/gridline-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Gridline Scopes](https://apis.io/scopes/gridline/gridline-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Gridline Plans Pricing](https://apis.io/plans/gridline/gridline-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Gridline Rate Limits](https://apis.io/rate-limits/gridline/gridline-rate-limits/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://gridlines.io/)
+- [Documentation](https://gridlines.stoplight.io/)
+- [API reference](https://gridlines.stoplight.io/)
+- [Support](https://ongrid.in/contact)
+- [Terms of service](https://ongrid.in/terms-of-service)
+- [Privacy policy](https://ongrid.in/privacy-policy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/gridline/](https://apis.io/providers/gridline/).
+**Kin Score 56.5** — strong · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 63.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.8 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 34.2 |
+
+**Agent readiness 46.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/gridline/](https://apis.io/providers/gridline/).
 
 ## How this profile is made
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gridline: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Gridlines: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
